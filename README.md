@@ -1,10 +1,10 @@
  👋 Hi, I’m anilev6!
  
- 🌱 I’m a student, and currently learning Python basics. 
+🔍 **Data Science Enthusiast** with experience in **Physics**\.
  
- 💞️ I’m looking to collaborate on any basic project that might help me to learn. 
+ 💞️ I’m looking to collaborate on any ML, NLP or any other project that might help me to learn, and help you. 
  
- 📫 Reach me by my email if needed. 
+ 📫 Reach me by my email. 
 
 <!---
 anilev6/anilev6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
