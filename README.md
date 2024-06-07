@@ -4,7 +4,7 @@
  
  💞️ I’m looking to collaborate on any ML, NLP or any other project that might help me to learn. 
  
- 📫 Reach me by my email. 
+ 📫 Reach me by my [email](mailto:ailevbarg@gmail.com). 
 
 <!---
 anilev6/anilev6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
