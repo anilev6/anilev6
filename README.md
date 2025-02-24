@@ -2,7 +2,7 @@
  
 🔍 **Data Science Enthusiast** with experience in **Physics**\.
  
- 💞️ I’m looking to collaborate on any ML, NLP or any other project that might help me to learn. 
+ 💞️ I’m looking to collaborate on any ML, NLP project. 
  
  📫 Reach me by my [email](mailto:ailevbarg@gmail.com). 
 
